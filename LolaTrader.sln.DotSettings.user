@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a14b255b_002Dab61_002D4fda_002Dbbfb_002Df498e4c60fe0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CBB7C2F5-FD69-4D6A-BBA0-4597A9F6CF9B::net6.0::LolaTests.LimitOrderTraderTests.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CBB7C2F5-FD69-4D6A-BBA0-4597A9F6CF9B::net6.0::LolaTests.LimitOrderTraderTests.Test_ShortSignal&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CBB7C2F5-FD69-4D6A-BBA0-4597A9F6CF9B::net6.0::LolaTests.LimitOrderTraderTests.Test_ExitTrade&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CBB7C2F5-FD69-4D6A-BBA0-4597A9F6CF9B::net6.0::LolaTests.StatefulLimitOrderTraderTests.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CBB7C2F5-FD69-4D6A-BBA0-4597A9F6CF9B::net6.0::LolaTests.StatefulLimitOrderTraderTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CBB7C2F5-FD69-4D6A-BBA0-4597A9F6CF9B::net6.0::LolaTests.StatefulLimitOrderTraderTests.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CBB7C2F5-FD69-4D6A-BBA0-4597A9F6CF9B::net6.0::LolaTests.StatefulLimitOrderTraderTests.Test_FillLongOrder&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CBB7C2F5-FD69-4D6A-BBA0-4597A9F6CF9B::net6.0::LolaTests.StatefulLimitOrderTraderTests.Test_ExitLongTrade&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
